@@ -18,7 +18,7 @@ Rapid Sec Labs is RapidBizz's own cybersecurity learning initiative: training co
 
 ## Demo
 
-The `demo/` folder holds one small, self-contained example — a password-strength lesson in TypeScript. It is an illustrative teaching example only, not product code.
+The `demo/` folder holds small, self-contained examples — a password-strength lesson (TypeScript and JavaScript) and a stylesheet (CSS). They are illustrative teaching examples only, not product code.
 
 ## Status
 
