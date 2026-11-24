@@ -16,6 +16,10 @@ Rapid Sec Labs is RapidBizz's own cybersecurity learning initiative: training co
 
 > Authorised security work only. No unauthorised testing is offered or endorsed here.
 
+## Demo
+
+The `demo/` folder holds one small, self-contained example — a password-strength lesson in TypeScript. It is an illustrative teaching example only, not product code.
+
 ## Status
 
 Own initiative of RapidBizz Pvt. Ltd. — in development.
